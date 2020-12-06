@@ -1,0 +1,15 @@
+.page-centre {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.title {
+    background-color: darkgray;
+    height: 45px;
+    color: black;
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    font-weight: 600;
+}
