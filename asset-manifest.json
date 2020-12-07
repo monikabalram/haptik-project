@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/monikabalram/haptik-project.git/static/css/main.271b266f.chunk.css",
-    "main.js": "/monikabalram/haptik-project.git/static/js/main.bc07f90d.chunk.js",
-    "main.js.map": "/monikabalram/haptik-project.git/static/js/main.bc07f90d.chunk.js.map",
-    "runtime-main.js": "/monikabalram/haptik-project.git/static/js/runtime-main.608e120e.js",
-    "runtime-main.js.map": "/monikabalram/haptik-project.git/static/js/runtime-main.608e120e.js.map",
-    "static/js/2.481ce6cc.chunk.js": "/monikabalram/haptik-project.git/static/js/2.481ce6cc.chunk.js",
-    "static/js/2.481ce6cc.chunk.js.map": "/monikabalram/haptik-project.git/static/js/2.481ce6cc.chunk.js.map",
-    "static/js/3.89b21a9d.chunk.js": "/monikabalram/haptik-project.git/static/js/3.89b21a9d.chunk.js",
-    "static/js/3.89b21a9d.chunk.js.map": "/monikabalram/haptik-project.git/static/js/3.89b21a9d.chunk.js.map",
-    "index.html": "/monikabalram/haptik-project.git/index.html",
-    "static/css/main.271b266f.chunk.css.map": "/monikabalram/haptik-project.git/static/css/main.271b266f.chunk.css.map",
-    "static/js/2.481ce6cc.chunk.js.LICENSE.txt": "/monikabalram/haptik-project.git/static/js/2.481ce6cc.chunk.js.LICENSE.txt"
+    "main.css": "/haptik-project/static/css/main.271b266f.chunk.css",
+    "main.js": "/haptik-project/static/js/main.bc07f90d.chunk.js",
+    "main.js.map": "/haptik-project/static/js/main.bc07f90d.chunk.js.map",
+    "runtime-main.js": "/haptik-project/static/js/runtime-main.e818724e.js",
+    "runtime-main.js.map": "/haptik-project/static/js/runtime-main.e818724e.js.map",
+    "static/js/2.481ce6cc.chunk.js": "/haptik-project/static/js/2.481ce6cc.chunk.js",
+    "static/js/2.481ce6cc.chunk.js.map": "/haptik-project/static/js/2.481ce6cc.chunk.js.map",
+    "static/js/3.89b21a9d.chunk.js": "/haptik-project/static/js/3.89b21a9d.chunk.js",
+    "static/js/3.89b21a9d.chunk.js.map": "/haptik-project/static/js/3.89b21a9d.chunk.js.map",
+    "index.html": "/haptik-project/index.html",
+    "static/css/main.271b266f.chunk.css.map": "/haptik-project/static/css/main.271b266f.chunk.css.map",
+    "static/js/2.481ce6cc.chunk.js.LICENSE.txt": "/haptik-project/static/js/2.481ce6cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.608e120e.js",
+    "static/js/runtime-main.e818724e.js",
     "static/js/2.481ce6cc.chunk.js",
     "static/css/main.271b266f.chunk.css",
     "static/js/main.bc07f90d.chunk.js"
