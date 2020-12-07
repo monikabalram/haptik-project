@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monikabalram/haptik-project.git/static/css/main.271b266f.chunk.css",
-    "main.js": "/monikabalram/haptik-project.git/static/js/main.e2682438.chunk.js",
-    "main.js.map": "/monikabalram/haptik-project.git/static/js/main.e2682438.chunk.js.map",
+    "main.js": "/monikabalram/haptik-project.git/static/js/main.bc07f90d.chunk.js",
+    "main.js.map": "/monikabalram/haptik-project.git/static/js/main.bc07f90d.chunk.js.map",
     "runtime-main.js": "/monikabalram/haptik-project.git/static/js/runtime-main.608e120e.js",
     "runtime-main.js.map": "/monikabalram/haptik-project.git/static/js/runtime-main.608e120e.js.map",
     "static/js/2.481ce6cc.chunk.js": "/monikabalram/haptik-project.git/static/js/2.481ce6cc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.608e120e.js",
     "static/js/2.481ce6cc.chunk.js",
     "static/css/main.271b266f.chunk.css",
-    "static/js/main.e2682438.chunk.js"
+    "static/js/main.bc07f90d.chunk.js"
   ]
 }
