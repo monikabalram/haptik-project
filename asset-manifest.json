@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monikabalram/haptik-project.git/static/css/main.271b266f.chunk.css",
+    "main.js": "/monikabalram/haptik-project.git/static/js/main.e2682438.chunk.js",
+    "main.js.map": "/monikabalram/haptik-project.git/static/js/main.e2682438.chunk.js.map",
+    "runtime-main.js": "/monikabalram/haptik-project.git/static/js/runtime-main.608e120e.js",
+    "runtime-main.js.map": "/monikabalram/haptik-project.git/static/js/runtime-main.608e120e.js.map",
+    "static/js/2.481ce6cc.chunk.js": "/monikabalram/haptik-project.git/static/js/2.481ce6cc.chunk.js",
+    "static/js/2.481ce6cc.chunk.js.map": "/monikabalram/haptik-project.git/static/js/2.481ce6cc.chunk.js.map",
+    "static/js/3.89b21a9d.chunk.js": "/monikabalram/haptik-project.git/static/js/3.89b21a9d.chunk.js",
+    "static/js/3.89b21a9d.chunk.js.map": "/monikabalram/haptik-project.git/static/js/3.89b21a9d.chunk.js.map",
+    "index.html": "/monikabalram/haptik-project.git/index.html",
+    "static/css/main.271b266f.chunk.css.map": "/monikabalram/haptik-project.git/static/css/main.271b266f.chunk.css.map",
+    "static/js/2.481ce6cc.chunk.js.LICENSE.txt": "/monikabalram/haptik-project.git/static/js/2.481ce6cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.608e120e.js",
+    "static/js/2.481ce6cc.chunk.js",
+    "static/css/main.271b266f.chunk.css",
+    "static/js/main.e2682438.chunk.js"
+  ]
+}
